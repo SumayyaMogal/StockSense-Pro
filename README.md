@@ -409,6 +409,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built for IIITA Hackathon — Problem Statement 1: Smart Trading & Portfolio Platform
+inspired from Problem Statement of IIITA Hackthon, problem Statement: Smart Trading & Portfolio Platform
 
 > *"Every trade is a lesson. Every loss is a lecture."*
